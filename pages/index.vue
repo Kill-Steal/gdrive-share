@@ -69,7 +69,7 @@
     <div class="position-fixed bottom-0 w-100" style="height: 25%; left: 20px">
       <p class="mb-6 text-red text-decoration-underline" style="font-size: 26px">ข้อควรระวัง !!!!!</p>
       <p style="font-size: 26px">
-        ต้องดาวน์โหลดโปรแกรมสำหรับติดตั้ง
+        การดาวน์โหลดโปรแกรมสำหรับติดตั้ง
         <span class="text-red">"ต้องเป็น<br />จังหวัดของเราเท่านั้น"</span> ห้ามนำโปรแกรมติดตั้ง<br />ของจังหวัดอื่นมาทำการติดตั้งเด็ดขาด
       </p>
     </div>
