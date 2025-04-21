@@ -178,14 +178,14 @@
     "province": "สพจ. บึงกาฬ",
     "link": "https://drive.google.com/drive/folders/1FRLI3GqrzLUdVGKf8QZ4rTS8bgPQ8QuH?usp=drive_link",
     "area": "ภาคตะวันออกเฉียงเหนือ",
-    "code": "บก_26",
+    "code": "บก_27",
     "no_district": false
   },
   {
     "province": "สพจ. บุรีรัมย์",
     "link": "https://drive.google.com/drive/folders/1OA4K6zBo-kamssuuuAn_N5ZtatIMgRQQ?usp=drive_link",
     "area": "ภาคตะวันออกเฉียงเหนือ",
-    "code": "บร_27",
+    "code": "บร_26",
     "no_district": false
   },
   {
@@ -500,35 +500,35 @@
     "province": "สพจ. อำนาจเจริญ",
     "link": "https://drive.google.com/drive/folders/17O3ScZAUDtvEV1uDePvWUDpggPCBN-t8?usp=drive_link",
     "area": "ภาคตะวันออกเฉียงเหนือ",
-    "code": "อจ_72",
+    "code": "อจ_76",
     "no_district": false
   },
   {
     "province": "สพจ. อุดรธานี",
     "link": "https://drive.google.com/drive/folders/1XT-zJHrKm7-i1LRxQDAtL2Pq_GEM1CO7?usp=drive_link",
     "area": "ภาคตะวันออกเฉียงเหนือ",
-    "code": "อด_73",
+    "code": "อด_72",
     "no_district": false
   },
   {
     "province": "สพจ. อุตรดิตย์",
     "link": "https://drive.google.com/drive/folders/1uzXRwKtNj5dDsL-swYwUWtKMLYUjclB9?usp=drive_link",
     "area": "ภาคเหนือ",
-    "code": "อต_74",
+    "code": "อต_73",
     "no_district": false
   },
   {
     "province": "สพจ. อุทัยธานี",
     "link": "https://drive.google.com/drive/folders/130Ex3zbcJ06TN5ym59b4pRLv2WGWCW_r?usp=drive_link",
     "area": "ภาคกลาง",
-    "code": "อท_75",
+    "code": "อท_74",
     "no_district": false
   },
   {
     "province": "สพจ. อุบลราชธานี",
     "link": "https://drive.google.com/drive/folders/1sP8GhmG8wqEO3i653W9FyRKC1yY8k7LO?usp=drive_link",
     "area": "ภาคตะวันออกเฉียงเหนือ",
-    "code": "อบ_76",
+    "code": "อบ_75",
     "no_district": false
   },
   {
